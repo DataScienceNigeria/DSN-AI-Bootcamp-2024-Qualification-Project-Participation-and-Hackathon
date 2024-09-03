@@ -1,7 +1,9 @@
 # DSN AI Bootcamp Qualification 2024: Project Participation/Hackathon Overview
 
+![image](https://github.com/user-attachments/assets/5c7cd111-a8ae-421a-a96d-0871d3097898)
 
-[![Image](https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/images/Bimage1.png?raw=true)]()
+
+
 
 <!-- Images arranged horizontally -->
 <p align='center'>
