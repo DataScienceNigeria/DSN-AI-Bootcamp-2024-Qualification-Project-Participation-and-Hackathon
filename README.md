@@ -1,4 +1,4 @@
-# DSN AI Bootcamp Qualification 2023: Project Participation/Hackathon Overview
+# DSN AI Bootcamp Qualification 2024: Project Participation/Hackathon Overview
 
 
 [![Image](https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/images/Bimage1.png?raw=true)]()
@@ -12,11 +12,10 @@
 
 ## Introduction
 
-Welcome to the DSN AI Bootcamp Qualification 2023 Project Participation/Hackathon! This Project Participation/Hackathon aims to showcase participants' skills in various tracks, including:
+Welcome to the DSN AI Bootcamp Qualification 2024 Project Participation/Hackathon! This Project Participation/Hackathon aims to showcase participants' skills in various tracks, including:
 
 1. <a href="https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/Microsoft Power BI.md">Microsoft Power BI</a>
-2. <a href="https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/Microsoft Power Apps.md">Microsoft Power Apps</a>
-3. <a href="https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/ML with Azure-Python.md">Machine Learning with Microsoft Azure/Python</a><br>
+2. <a href="https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/ML with Azure-Python.md">Machine Learning with Microsoft Azure/Python</a><br>
 
 Each track will provide participants with unique challenges and opportunities to make a meaningful impact using data and AI technologies.
 
