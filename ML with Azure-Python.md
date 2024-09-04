@@ -65,6 +65,5 @@ Submission link: [Click to submit](https://docs.google.com/forms/d/e/1FAIpQLSeLA
 
 ## Join the DSN AI Bootcamp 2024 Qualification Hackathon
 
-To participate in this exciting hackathon, head over to the official hackathon page at [https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon-2023](https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon-2023  )
-
+To participate in this exciting hackathon, head over to the official hackathon page at 
 
