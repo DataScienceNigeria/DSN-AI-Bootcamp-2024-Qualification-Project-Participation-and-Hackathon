@@ -47,6 +47,9 @@ Every company has a mission. What's ours? To empower every person and every orga
 
 Microsoft operates in 190 countries and is made up of more than 220,000 passionate employees worldwide.
 
+## Join the DSN AI Bootcamp 2024 Qualification Hackathon
+
+To participate in this exciting hackathon, head over to the official hackathon page at https://zindi.africa/competitions/microsoft-x-data-science-nigeria-2024-ai-bootcamp-qualification-hackathon
 
 ## Submission Requirements
 
@@ -60,11 +63,9 @@ Submission link: [Click to submit](https://docs.google.com/forms/d/e/1FAIpQLSeLA
 
 ## Important Dates
 
-- Hackathon Start Date: September 16, 2024
-- Submission Deadline: September 30, 2024
+- Hackathon Start Date: September 16, 2024 6:00 PM (GMT+1)
+- Submission Deadline: September 30, 2024 11:59 PM (GMT+1)
 
-## Join the DSN AI Bootcamp 2024 Qualification Hackathon
 
-To participate in this exciting hackathon, head over to the official hackathon page at https://zindi.africa/competitions/microsoft-x-data-science-nigeria-2024-ai-bootcamp-qualification-hackathon
 
 
