@@ -6,7 +6,7 @@ Are you ready to take on a challenge that will not only showcase your data scien
 
 ## About the Hackathon
 
-The challenge at hand revolves around the creation of a sophisticated predictive model aimed at determining the likelihood of an individual having heart disease. As one of the leading causes of global mortality, detecting heart disease in its early stages is pivotal for enhancing patient outcomes and halting its progression. The conventional diagnostic methods often come with substantial costs and time requirements. Thus, there exists a pressing need for a cutting-edge predictive model that can evaluate the risk of heart disease utilizing easily accessible patient information.
+The challenge at hand revolves around the creation of a sophisticated predictive model aimed at determining the likelihood of an individual having heart disease. As one of the leading causes of global mortality, detecting heart disease in its early stages is pivotal for enhancing patient outcomes and halting its progression. Conventional diagnostic methods often come with substantial costs and time requirements. Thus, there exists a pressing need for a cutting-edge predictive model that can evaluate the risk of heart disease utilizing easily accessible patient information.
 
 
 ## The Objective
@@ -65,5 +65,6 @@ Submission link: [Click to submit](https://docs.google.com/forms/d/e/1FAIpQLSeLA
 
 ## Join the DSN AI Bootcamp 2024 Qualification Hackathon
 
-To participate in this exciting hackathon, head over to the official hackathon page at 
+To participate in this exciting hackathon, head over to the official hackathon page at https://zindi.africa/competitions/microsoft-x-data-science-nigeria-2024-ai-bootcamp-qualification-hackathon
+
 
