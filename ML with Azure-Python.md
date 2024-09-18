@@ -49,7 +49,7 @@ Microsoft operates in 190 countries and is made up of more than 220,000 passiona
 
 ## Join the DSN AI Bootcamp 2024 Qualification Hackathon
 
-To participate in this exciting hackathon, head over to the official hackathon page at https://zindi.africa/competitions/microsoft-x-data-science-nigeria-2024-ai-bootcamp-qualification-hackathon
+To participate in this exciting hackathon, head over to the official hackathon page (Please note that we are currently updating the hackathon Page and you will be notified on when it is now available)
 
 ## Submission Requirements
 
@@ -57,7 +57,7 @@ To qualify for the DSN AI Bootcamp, you need to submit the following:
 
 1. GitHub Repository: Share a link to your GitHub repository containing your code and project files.
 2. Project Implementation Video: Create a 5 to 15-minute video explaining your project implementation walkthrough.
-3. Executive Report: Submit an executive report in PDF format that includes insights from Exploratory Data Analysis (EDA), biases behind the model (e.g., Linear Regression, XGBoost), and any other insightful information.
+3. Executive Report: Submit an executive report in PDF format that includes insights from Exploratory Data Analysis (EDA), biases behind the model (e.g., Logistic regression, Random forest,), and any other insightful information.
 
 Submission link: [Click to submit](https://docs.google.com/forms/d/e/1FAIpQLSeLAdlTV-TCKrKVSHjUX_4ZeSnnJ5EvjSL2pdMUCl7b7a-XCA/viewform?usp=sharing)
 
