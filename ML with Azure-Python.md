@@ -49,7 +49,7 @@ Microsoft operates in 190 countries and is made up of more than 220,000 passiona
 
 ## Join the DSN AI Bootcamp 2024 Qualification Hackathon
 
-To participate in this exciting hackathon, head over to the official hackathon page (Please note that we are currently updating the hackathon Page and you will be notified on when it is now available)
+To participate in this exciting hackathon, head over to the official hackathon page on Zindi to make submissions and be graded https://zindi.africa/competitions/microsoft-x-data-science-nigeria-2024-ai-bootcamp-qualification-hackathon)
 
 ## Submission Requirements
 
