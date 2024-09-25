@@ -27,12 +27,8 @@ Participants will present their findings and visualizations to a panel of esteem
 
 ## Submission Method
 
-Participants are required to follow these steps for submission:
+Participants are required to Upload the Power BI .PBIX/PDF file
 
-1. Create a 5 to 15 minutes video presentation showcasing their visualizations, insights, and data storytelling. 
-2. Upload the Power BI (.PBIX) file
-3. An executive report (PDF format) detailing the project's insight
-   
 Submission link: [Click to submit](https://docs.google.com/forms/d/e/1FAIpQLSeLAdlTV-TCKrKVSHjUX_4ZeSnnJ5EvjSL2pdMUCl7b7a-XCA/viewform?usp=sharing)
 
 ## Dataset Access
