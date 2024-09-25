@@ -53,11 +53,7 @@ To participate in this exciting hackathon, head over to the official hackathon p
 
 ## Submission Requirements
 
-To qualify for the DSN AI Bootcamp, you need to submit the following:
-
-1. GitHub Repository: Share a link to your GitHub repository containing your code and project files.
-2. Project Implementation Video: Create a 5 to 15-minute video explaining your project implementation walkthrough.
-3. Executive Report: Submit an executive report in PDF format that includes insights from Exploratory Data Analysis (EDA), biases behind the model (e.g., Logistic regression, Random forest,), and any other insightful information.
+To qualify for the DSN AI Bootcamp, you need to complete the submission formm
 
 Submission link: [Click to submit](https://docs.google.com/forms/d/e/1FAIpQLSeLAdlTV-TCKrKVSHjUX_4ZeSnnJ5EvjSL2pdMUCl7b7a-XCA/viewform?usp=sharing)
 
